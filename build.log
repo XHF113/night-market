@@ -1,0 +1,183 @@
+
+> night-market-miniprogram@1.0.0 build:mp-weixin
+> uni build -p mp-weixin
+
+编译器版本：5.24（vue3）
+正在编译中...
+
+uni-app 有新版本发布，请执行 `npx @dcloudio/uvm@latest` 更新，更新日志详见：https://download1.dcloud.net.cn/hbuilderx/changelog/5.26.2026091802.html
+[sync-cloud] 已同步云函数到 c:\Users\86188\Desktop\night-market\miniprogram\dist\build\mp-weixin\cloudfunctions
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import 'uview-plus/theme.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+11 │ @import 'uview-plus/index.scss';
+   │         ^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    src\App.vue 11:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import "./libs/css/theme-vars.scss";
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    node_modules\uview-plus\index.scss 2:9  @import
+    src\App.vue 11:9                        root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+3 │ @import "./libs/css/theme-legacy-bridge.scss";
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    node_modules\uview-plus\index.scss 3:9  @import
+    src\App.vue 11:9                        root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+7 │ @import "./libs/css/common.scss";
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    node_modules\uview-plus\index.scss 7:9  @import
+    src\App.vue 11:9                        root stylesheet
+
+WARNING: 8 repetitive deprecation warnings omitted.
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import 'uview-plus/theme.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src\pages\cart\cart.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import 'uview-plus/theme.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src\pages\index\index.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import 'uview-plus/theme.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src\pages\profile\profile.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import 'uview-plus/theme.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src\pages\order-detail\order-detail.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import 'uview-plus/theme.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src\pages\orders\orders.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import 'uview-plus/theme.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src\pages\address\address.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import 'uview-plus/theme.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src\pages\order-confirm\order-confirm.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import 'uview-plus/theme.scss';
+  │         ^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    src\pages\stall\stall.vue 1:9  root stylesheet
+
+[sync-cloud] 已同步云函数到 c:\Users\86188\Desktop\night-market\miniprogram\dist\build\mp-weixin\cloudfunctions
+DONE  Build complete.
+运行方式：打开 微信开发者工具, 导入 [36mdist\build\mp-weixin[39m 运行。

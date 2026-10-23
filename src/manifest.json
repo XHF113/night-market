@@ -1,0 +1,64 @@
+{
+    "name": "夜市点餐",
+    "appid": "wx295de7053bb47001",
+    "description": "夜市扫码点餐小程序",
+    "versionName": "1.0.0",
+    "versionCode": "100",
+    "transformPx": false,
+    "app-plus": {
+        "usingComponents": true,
+        "nvueStyleCompiler": "uni-app",
+        "compilerVersion": 3,
+        "splashscreen": {
+            "alwaysShowBeforeRender": true,
+            "waiting": true,
+            "autoclose": true,
+            "delay": 0
+        },
+        "modules": {},
+        "distribute": {
+            "android": {
+                "permissions": [
+                    "<uses-permission android:name=\"android.permission.INTERNET\"/>"
+                ]
+            },
+            "ios": {},
+            "sdkConfigs": {}
+        }
+    },
+    "quickapp": {},
+    "mp-weixin": {
+        "appid": "wx295de7053bb47001",
+        "setting": {
+            "urlCheck": false,
+            "es6": true,
+            "postcss": true,
+            "minified": true
+        },
+        "usingComponents": true,
+        "cloudfunctionRoot": "cloudfunctions/",
+        "permission": {
+            "scope.userLocation": {
+                "desc": "用于查看附近摊位"
+            }
+        },
+        "requiredPrivateInfos": [
+            "getLocation",
+            "chooseLocation"
+        ]
+    },
+    "vueVersion": "3",
+    "h5": {
+        "router": {
+            "mode": "hash"
+        },
+        "optimization": {
+            "treeShaking": {
+                "enable": true
+            }
+        }
+    },
+    "uniStatistics": {
+        "enable": false
+    }
+}
